@@ -31,10 +31,10 @@
 12. 리스트 페이징
 
 <경로>
-    - [runningdog/src/main/java/com/kh/runningdog/member/](https://github.com/taeung103/runningdog/runningdog/src/main/java/com/kh/runningdog/member/)
-    - [runningdog/src/main/java/com/kh/runningdog/admin/member/controller/]()
-    - [runningdog/src/main/webapp/WEB-INF/views/member/]()
-    - [runningdog/src/main/webapp/WEB-INF/views/admin/member/]()
+  - [runningdog/src/main/java/com/kh/runningdog/member/](https://github.com/taeung103/runningdog/tree/master/src/main/java/com/kh/runningdog/member)
+  - [runningdog/src/main/java/com/kh/runningdog/admin/member/controller/](https://github.com/taeung103/runningdog/tree/master/src/main/java/com/kh/runningdog/admin/member/controller)
+  - [runningdog/src/main/webapp/WEB-INF/views/member/](https://github.com/taeung103/runningdog/tree/master/src/main/webapp/WEB-INF/views/member)
+  - [runningdog/src/main/webapp/WEB-INF/views/admin/member/](https://github.com/taeung103/runningdog/tree/master/src/main/webapp/WEB-INF/views/admin/member)
 
 ## 🛠 개발환경      
 💻 Java | JSP | Spring 3.9.13       

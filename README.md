@@ -29,8 +29,7 @@
 10. 계정정보 중복 검사      
 11. 계정정보 정규표현식 적용       
 12. 리스트 페이징
-
-<경로>
+  
   - [runningdog/src/main/java/com/kh/runningdog/member/](https://github.com/taeung103/runningdog/tree/master/src/main/java/com/kh/runningdog/member)
   - [runningdog/src/main/java/com/kh/runningdog/admin/member/controller/](https://github.com/taeung103/runningdog/tree/master/src/main/java/com/kh/runningdog/admin/member/controller)
   - [runningdog/src/main/webapp/WEB-INF/views/member/](https://github.com/taeung103/runningdog/tree/master/src/main/webapp/WEB-INF/views/member)

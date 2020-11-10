@@ -28,7 +28,13 @@
 9. 리스트 키워드 검색       
 10. 계정정보 중복 검사      
 11. 계정정보 정규표현식 적용       
-12. 리스트 페이징 
+12. 리스트 페이징
+
+<경로>
+- [runningdog/src/main/java/com/kh/runningdog/member/](https://github.com/taeung103/runningdog/tree/master/runningdog/src/main/java/com/kh/runningdog/member/)
+- [runningdog/src/main/java/com/kh/runningdog/admin/member/controller/]()
+- [runningdog/src/main/webapp/WEB-INF/views/member/]()
+- [runningdog/src/main/webapp/WEB-INF/views/admin/member/]()
 
 ## 🛠 개발환경      
 💻 Java | JSP | Spring 3.9.13       

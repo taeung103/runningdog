@@ -1,5 +1,5 @@
 # 지금달려갈개
-* 유기동물 정보공유와 자원봉사모집, 후원, 동물 관련 이슈 공유를 목적으로 자바 스프링 프레임워크를 사용하여 반응형 웹 사이트로 제작한 팀 프로젝트입니다.
+유기동물 정보공유와 자원봉사모집, 후원, 동물 관련 이슈 공유를 목적으로 자바 스프링 프레임워크를 사용하여 반응형 웹 사이트로 제작한 팀 프로젝트입니다.
 
 # 구현 기능 및 상세기능 설명
 <사용자>
@@ -32,8 +32,8 @@
 12. 리스트 페이징
 
 # 🛠 개발환경
-💻 Java | JSP | Spring 3.9.13
-🌐 HTML | CSS | JavaScript | jQery 3.5.1
-🛢 Oracle Database 11g | SQL
-🔧 Git | SourceTree
-📫 apache-tomcat-8.5.57
+💻 Java | JSP | Spring 3.9.13 
+🌐 HTML | CSS | JavaScript | jQery 3.5.1 
+🛢 Oracle Database 11g | SQL 
+🔧 Git | SourceTree 
+📫 apache-tomcat-8.5.57 
